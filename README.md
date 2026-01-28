@@ -34,5 +34,5 @@ This is a modern, responsive portfolio website for Daryl Smith, a UI/UX Designer
 
 ## Live Site URL
 
-*No live deployment URL currently provided. This project is designed for local development.*
+[https://theme-fisher-assessment.vercel.app/](https://theme-fisher-assessment.vercel.app/)
 

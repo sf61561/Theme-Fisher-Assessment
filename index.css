@@ -1,0 +1,36 @@
+.dm-sans-700 {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.dm-sans-500 {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.dm-sans-400 {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#menu{
+    background: linear-gradient(
+        -135deg,
+        #171B1A 38%,
+        #121414 38%
+    );
+}
+
+.trans{
+    transform: rotate(-50deg) skewY(13deg);
+}
+
+del{
+  color: #979797;
+}

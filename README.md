@@ -24,7 +24,7 @@ This is a modern, responsive portfolio website for Daryl Smith, a UI/UX Designer
    ```
 
 3. **Serve the project**
-     Simply open `index.html` in your web browser by double-clicking the file.
+     *Simply open `index.html` in your web browser by double-clicking the file.
 
 4. **View the website**
    - Navigate to the local server URL in your web browser
